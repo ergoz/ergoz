@@ -54,11 +54,10 @@ IT enthusiast and Software Engineer. More info will be here later.
 # 📊 GitHub Stats:
 <div align="center">
     <img style="width: 80%" src="https://github-readme-stats.vercel.app/api?username=ergoz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
-    <img style="width: 80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ergoz&theme=onedark&hide_border=false" /><br/><br/>
-    <img style="width: 80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergoz&theme=tokyonight&onedark=false&include_all_commits=true&count_private=true&layout=donut&hide=jupyter%20notebook,html,css" />
+    <img style="width: 80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergoz&theme=tokyonight&onedark=false&include_all_commits=true&count_private=true&layout=donut&hide=jupyter%20notebook,html,css" /><br/><br/>
+    <img style="width: 80%" src="https://github-readme-streak-stats.herokuapp.com?user=ergoz&theme=catppuccin-mocha&border_radius=4" alt="GitHub Streak" /><br/><br/>
+    <img style="width: 80%" src="https://github-profile-trophy.vercel.app/?username=ergoz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ergoz&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
